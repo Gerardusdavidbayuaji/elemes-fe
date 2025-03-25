@@ -1,7 +1,7 @@
 import SectionTitle from "@/components/elements/SectionTitle";
 import Container from "@/components/elements/Container";
-import AllReceipt from "./AllReceipt";
-import FoodCard from "./FoodCard";
+import AllReceipt from "./components/AllReceipt";
+import FoodCard from "./components/FoodCard";
 
 const Trending = () => {
   return (

@@ -5,7 +5,9 @@ export interface INavigations {
 
 export interface ICategory {
   id: string;
+  image: string;
   category_name: string;
+  color: string;
   items: number;
 }
 
