@@ -1,5 +1,5 @@
-import Hero from "@/modules/hero";
+import HomePage from "@/modules";
 
-export default function HomePage() {
-  return <Hero />;
+export default function Page() {
+  return <HomePage />;
 }
