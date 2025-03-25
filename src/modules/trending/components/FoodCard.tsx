@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { sampleTranding } from "@/utils/datas/trandings";
+import { sampleTranding } from "@/utils/datas/trendings";
 
 const FoodCard = () => {
   return (

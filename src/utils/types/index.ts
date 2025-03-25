@@ -11,7 +11,7 @@ export interface ICategory {
   items: number;
 }
 
-export interface ITranding {
+export interface ITrending {
   id: string;
   image: string;
   food: string;

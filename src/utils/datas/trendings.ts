@@ -1,6 +1,6 @@
-import { ITranding } from "../types";
+import { ITrending } from "../types";
 
-export const sampleTranding: ITranding[] = [
+export const sampleTranding: ITrending[] = [
   {
     id: "1",
     image: "/images/image1.png",
