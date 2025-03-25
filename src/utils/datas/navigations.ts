@@ -1,4 +1,4 @@
-import { INavigations } from "../types";
+import { INavigations, ICategory, ITranding } from "../types";
 
 export const sampleNavigations: INavigations[] = [
   {

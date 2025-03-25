@@ -1,0 +1,68 @@
+import { ITranding } from "../types";
+
+export const sampleTranding: ITranding[] = [
+  {
+    id: "1",
+    image: "/images/image1.png",
+    food: "Pizza Paperoni",
+    category_name: "Pizza",
+    rating: 4,
+    color: "#E6F3F5",
+  },
+  {
+    id: "2",
+    image: "/images/image2.png",
+    food: "Pizza Meat",
+    category_name: "Pizza",
+    rating: 3,
+    color: "#E6F3F5",
+  },
+  {
+    id: "3",
+    image: "/images/image3.png",
+    food: "Doner Kebab",
+    category_name: "Kebab",
+    rating: 5,
+    color: "#EAEEFA",
+  },
+  {
+    id: "4",
+    image: "/images/image4.png",
+    food: "Salmon Roll",
+    category_name: "Salmon",
+    rating: 4,
+    color: "#F9EEF3",
+  },
+  {
+    id: "5",
+    image: "/images/image5.png",
+    food: "Cupcake Choco",
+    category_name: "Cupcake",
+    rating: 4,
+    color: "#F0FEEB",
+  },
+  {
+    id: "6",
+    image: "/images/image6.png",
+    food: "Doughnut Milk",
+    category_name: "Doughnut",
+    rating: 4,
+    color: "#F3F7D9",
+  },
+  {
+    id: "7",
+    image: "/images/image7.png",
+    food: "Doughnut Unicorn",
+    category_name: "Doughnut",
+    rating: 4,
+    color: "#F3F7D9",
+  },
+  {
+    id: "8",
+    image: "/images/image8.png",
+    food: "Kathi Kebab",
+    category_name: "Kebab",
+    rating: 4,
+    color: "#EAEEFA",
+  },
+];
